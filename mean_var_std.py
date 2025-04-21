@@ -1,4 +1,3 @@
-mean_var_std_code = """
 import numpy as np
 
 def calculate(lst):
@@ -17,4 +16,3 @@ def calculate(lst):
     }
 
     return calculations
-"""
